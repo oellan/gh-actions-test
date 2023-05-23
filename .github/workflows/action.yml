@@ -1,5 +1,4 @@
 name: Build & Deploy
-description: Build and deploy on server
 
 on:
   push:
